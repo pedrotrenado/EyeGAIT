@@ -57,7 +57,7 @@ The system is composed of the following modules:
 |---|---|
 | ![Top](docs/pcb_top.png) | ![Bottom](docs/pcb_bottom.png) |
 
-> Designed in Altium Designer. PCB ID: `FEEL2023_Trenado_Cabrera`
+> Designed in Altium Designer. PCB ID: `FEEL2023_Trenado_Pedro`
 
 ---
 
@@ -111,7 +111,6 @@ EyeGAIT/
 │   ├── schematic/
 │   ├── pcb/
 │   └── gerbers/
-├── firmware/
 ├── docs/
 │   ├── pcb_top.png
 │   ├── pcb_bottom.png
